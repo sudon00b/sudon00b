@@ -1,31 +1,32 @@
 # 🌩️ Sudhakar's Cloud & DevOps Portfolio
 
-Welcome to my Cloud and DevOps portfolio! This is where I showcase my professional work, personal projects, and ongoing learning in the world of cloud infrastructure and DevOps engineering.
+Welcome to my Cloud and DevOps portfolio! This is my personal space to learn, build, and showcase projects, experiments, and ideas in the world of cloud computing and DevOps.
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 I'm **Sudhakar**, a **Cloud & DevOps Engineer** passionate about building scalable, reliable, and automated infrastructure. I specialize in cloud-native technologies, CI/CD, and Infrastructure as Code. This portfolio serves as my public lab and resume — a place where I document what I’ve done and what I’m exploring next.
 
+
 ## 🛠️ What You'll Find Here
 
-This repository (and related ones) will include:
+This repository (and possibly subfolders) will contain:
 
-- ✅ **Infrastructure as Code** (Terraform, CloudFormation, Pulumi)
-- 🐳 **Containerization** (Docker, Podman)
+- ✅ **Infrastructure as Code** (Terraform, Opentofu, Typescript(CDKTF))
+- 🐳 **Containerization** (Docker)
 - ☸️ **Orchestration** (Kubernetes, Helm)
-- 🔄 **CI/CD Pipelines** (GitHub Actions, Jenkins, GitLab CI)
-- ☁️ **Cloud Platforms** (AWS, Azure, GCP)
-- 🔒 **Security, IAM, and Secrets Management**
-- 📊 **Monitoring & Logging** (Prometheus, Grafana, ELK)
-- 🧪 **Hands-on labs, real-world projects, and experiments**
+- 📦 **CI/CD Pipelines** (GitHub Actions, Azure DevOps)
+- ☁️ **Cloud Platforms** (Azure, AWS)
+- 🔒 **Security & IAM** concepts
+- 🔧 **Monitoring & Logging** (Prometheus, Grafana, ELK)
+- 📝 Labs, mini-projects, and learning notes
 
-## 📂 Planned Structure
+## 📂 Structure (planned)
 
 ```bash
 .
-├── terraform-labs/         # Infrastructure as Code demos
-├── cicd-pipelines/         # Sample CI/CD workflows
-├── k8s-deployments/        # Kubernetes manifests and Helm charts
-├── cloud-projects/         # Cloud platform-specific projects
-├── scripts/                # Bash, Python, or PowerShell scripts
+├── terraform-*/         # Infrastructure as Code demos
+├── cicd-*/         # Sample CI/CD workflows
+├── k8s-*/        # Kubernetes manifests and Helm charts
+├── cloud-*/         # Projects using AWS/Azure
+├── scripts-*/                # Handy Bash, Python, or PowerShell scripts
 └── README.md               # You're here!
